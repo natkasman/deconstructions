@@ -8,15 +8,22 @@
 | Semi-Conductor  | Movement, sounds, volume, tempo, confidence scores of body recognition | Hand and body movement, camera feed  | Musical instruments, song playing track bar, More info and help buttons  | Webcam  | Control the tempo and musical instruments of this digital orchestra  |
 
 #### Link to Projects
-The Speed Camera Lottery: https://www.youtube.com/watch?v=iynzHWwJXaA
+The Speed Camera Lottery: <https://www.youtube.com/watch?v=iynzHWwJXaA>
 
-Semi-Conductor: https://semiconductor.withgoogle.com/
+Semi-Conductor: <https://semiconductor.withgoogle.com/>
 
-------
+----
 
 
-### Week 3: Jan 27
-
+### Week 3: Feb 3
 
 | Project Name  | Data/Model | Render/View | Simulate | Events/Input | Hardware | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| BeatPose | Song name, Song duration, Beat block position, Difficulty level, Body movement/position | Song name, Current song duration, | Beat blocks moving, Current song duration | Body movements | None |
+| Knock Knock | Knocks | None | Frequency of knocks (Mel-frequency cepstral coefficients or MFCCs) | Knocks | Arduino |
+
+#### Link to Projects
+
+BeatPose: <https://beat-pose.netlify.com/?id=4a6>
+
+Knock Knock: <https://passwords.ai/>
