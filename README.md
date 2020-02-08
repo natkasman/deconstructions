@@ -27,3 +27,20 @@ Semi-Conductor: <https://semiconductor.withgoogle.com/>
 BeatPose: <https://beat-pose.netlify.com/?id=4a6>
 
 Knock Knock: <https://passwords.ai/>
+
+
+----
+
+
+### Week 4: Feb 10
+
+| Project Name  | Data/Model | Render/View | Simulate | Events/Input | Hardware | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Snake Game | X,Y-Train, Y-Passengers, Speed-Train, Landmarks | Draw train, Draw passengers, Draw terrain/background, Draw landmarks | Moving train, Bounce passengers, Length of train | Up-down-left-right keys | None |
+
+#### Link to Projects
+
+Snake Game: https://snake.googlemaps.com/
+
+
+----
