@@ -44,3 +44,17 @@ Snake Game: https://snake.googlemaps.com/
 
 
 ----
+
+
+### Week 5: Feb 17
+
+| Project Name  | Data/Model | Render/View | Simulate | Events/Input | Hardware | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Shadow Art | Animal outlines, Main animal illustration, Shadow, Hand outline | Draw hand outline, Draw shadow, Draw main animal illustration | Morphing shadow, animal illustration | Finger | None |
+
+#### Link to Projects
+
+Shadow Art: https://experiments.withgoogle.com/shadow-art
+
+
+----
