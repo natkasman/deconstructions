@@ -58,3 +58,15 @@ Shadow Art: https://experiments.withgoogle.com/shadow-art
 
 
 ----
+
+### Week 6: Feb 24
+
+| Project Name  | Data/Model | Render/View | Simulate | Events/Input | Hardware | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Onion Chop Robot | Knife starting point, Knife end point | None | Move from starting point to end point | (Button? Not very clear from video) | Servo motor, breadboard/circuit, battery pack (? Assumed——how they get power?) |
+
+#### Link to Projects
+
+Onion Chop Robot in: https://www.youtube.com/watch?v=ab47XHidvwQ
+
+----
