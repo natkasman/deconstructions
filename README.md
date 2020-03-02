@@ -70,3 +70,13 @@ Shadow Art: https://experiments.withgoogle.com/shadow-art
 Onion Chop Robot in: https://www.youtube.com/watch?v=ab47XHidvwQ
 
 ----
+
+### Week 7: March 2
+
+| Project Name  | Data/Model | Render/View | Simulate | Events/Input | Hardware | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Hello World | Shadows, Light, Movement | Draw shadows, Draw movement | Move from person's start point to end point | Person standing in front of the light/sensor | Unclear from video |
+
+#### Link to Projects
+
+Hello World: https://vimeo.com/75988765
